@@ -2,3 +2,12 @@ lmao.py
 kddextract.py
 *.csv
 *.pcap
+nvidia prompt.md
+insane.py
+pcap/
+CICFlowMeter/
+input/
+output/
+processed/
+archive.zip
+*.csv
